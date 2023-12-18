@@ -1,4 +1,4 @@
-![Alt text](url)
+![StorybookImg]([url](https://github.com/StewedDownSteve/storybookscopy/blob/master/storybooksscreenShot.png))
 
 # Storybooks Web App copy
 A full-stack web app, copy of Storybooks format and function. Allows user to log in using google and post and share their own stories.
