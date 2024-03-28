@@ -1,5 +1,5 @@
 
-# Storybooks Web App copy
+# My Story (Fullstack)
 A full-stack web app, copy of Storybooks format and function. Allows the user to log in using Google and post and share their own stories.
 
 ![StorybooklogingImg](https://github.com/StewedDownSteve/storybookscopy/blob/main/storybook_login_img.png?raw=true)
@@ -14,8 +14,8 @@ This helped tie in all my knowledge of Node, Express, and Mongo. Learning how to
 
 # Optimizations
 
-If I were to go back I would fix a few errors due to an updated version of Mongoose. I used a two year old tutorial so I have to install older versions.
-For fun, I would add as many authentications as I could, like Snapchat, Facebook, Twitter, LinkedIn, etc. I may take this same sort of lay out and try to make a different applications with it.
+If I were to go back I would fix a few errors due to an updated version of Mongoose. I used a two-year-old tutorial so I have to install older versions.
+For fun, I would add as many authentications as I could, like Snapchat, Facebook, Twitter, LinkedIn, etc. I may take this same sort of layout and try to make different applications with it.
   
 
 # Lessons Learned:
